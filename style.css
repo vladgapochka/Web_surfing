@@ -1,0 +1,324 @@
+
+.topnav {
+    overflow: hidden;
+    background: linear-gradient(powderblue,aliceblue);
+}
+.topnav {background: linear-gradient(powderblue,aliceblue);
+    display: flex;
+    justify-content: center;
+}
+.topnav a {
+    color: black;
+    text-align: center;
+    padding: 30px 16px;
+    text-decoration: none;
+    display: flex ;
+    padding-top: 35px;
+    align-items: center;
+    font: 30px "Segoe UI";
+
+}
+#sec1{
+    background-color: aliceblue ;
+    min-width: 300px;
+}
+#sec2{
+    background-color: aliceblue ;
+}
+#sec3{
+    background-color: #f3f8f2;
+}
+#sec4{
+    background-color: aliceblue;
+    display: flex;
+}
+#sec5{
+    background: linear-gradient(aliceblue, #f3f8f2);
+}
+#sec6{
+    background: linear-gradient(#f3f8f2, sandybrown);
+}
+#sec7{
+    background: linear-gradient(sandybrown,darksalmon);
+}
+.fotoz {
+    display:block;
+    margin:auto;
+    width: 65%;
+}
+#rer {
+    text-align: right;
+    margin-right: 15%;
+
+}
+#zag_{
+    text-align: right;
+    margin-right: 15%;
+    font:40px "Segoe UI";
+}
+
+a.t{
+    float: right;
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+}
+a.f{
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+}
+a.huh{
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    /*user-select: none; !* убирать выделение текста *!*/
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+}
+a.zzz{
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+
+}
+.stic_vol{
+    width: 400px;
+    height: 400px;
+
+}
+.nabor{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+
+
+}
+.bord_t{
+    margin-left: 10px;
+    font:20px "Segoe UI";
+}
+.bord_p{
+    font:20px "Segoe UI";
+}
+#s_21{
+    font: 40px "Segoe UI";
+}
+#s_22{
+    font: 25px "Segoe UI";
+}
+.zb{
+    margin-left: 10%;
+    display: flex;
+    align-items: initial;
+    flex-direction: column;
+}
+
+#zim{
+    padding-bottom: 7%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.text_v{
+    padding-left: 600px;
+    padding-right: 100px;
+}
+#vii{
+    text-align: right;
+    margin-right: 15%;
+}
+#vii h2{
+    font: 25px "Segoe UI";
+}
+#vii p{
+    float: right;
+    width: 40%;
+    font: 20px "Segoe UI";
+}
+a.b{
+    float: right;
+    margin-right: 200px;
+}
+.co{
+    padding-left: 150px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#te h2{
+    width: 40%;
+    padding-right: 10%;
+    font: 40px "Segoe UI";
+}
+#te p{
+    padding-right: 10%;
+    width: 60%;
+    font: 20px "Segoe UI";
+
+}
+#sec3_f1{
+    width: 30%;
+    margin: 10px;
+}
+#sec3_f2{
+    width: 30%;
+    margin: 10px;
+}
+#sec3_f3{
+    width: 30%;
+    margin: 10px;
+}
+#fot{
+
+}
+.dr{
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.dr1{
+    margin-right: 5%;
+}
+#ssm{
+    width: 100%;
+    height: 100%;
+}
+.ziz{
+    font: 25px "Segoe UI";
+}
+.ddd{
+    width: 40%;
+    height: 40%;
+}
+.zon{
+    font: 20px "Segoe UI";
+    width: 400px;
+}
+#rig{
+    width: 250%;
+}
+
+.hh{
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.eee{
+    margin-left: 30%;
+    margin-right: 10%;
+}
+.eee h2{
+    font: 30px "Segoe UI";
+}
+.eee p{
+    font: 20px "Segoe UI";
+}
+.xp{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 100px;
+
+}
+.xp_v h2{
+    font: 30px "Segoe UI";
+}
+.xp_v p{
+    font: 20px "Segoe UI";
+    width: 300px;
+}
+.xp_v{
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.xp_f{
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+.roo
+{
+   display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-width: 800px;
+    padding:20px;
+
+}
+.roo div {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 75%;
+}
+.roo img
+{
+    width:75%;
+    min-width:860px ;
+}
+.roo h1{
+    padding-right: 60px;
+}
+body{
+  min-width:800px ;
+}
+.roo a{
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+    margin-right: 10%;
+}
+.roo h1{
+    font: 30px "Segoe UI";
+}
+#st_f2 {
+    display: flex;
+    text-align: right;
+    margin-right: 15%;
+}
+#st_f2 h2{
+    font: 30px "Segoe UI";
+}
+#st_f2 p{
+    font: 20px "Segoe UI";
+}
+#st_f2 a{
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    background: rgb(117,187,253); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+    font: 20px "Segoe UI";
+
+
+}
+#ttt{
+    display: block;
+    margin-right: 5%;
+}
+/*-------------------------------------------------------*/
